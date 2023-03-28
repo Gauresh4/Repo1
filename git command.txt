@@ -1,0 +1,12 @@
+git config --list  --> to know git information
+
+git config --global user.name "Gauresh"  --> to set git username
+
+git config --global user.email "gaureshkumbhar2504@gmail.com"  --> to set git email id
+
+
+git init --> to initialized the git command 
+
+git add .    -->to add file in git stage
+
+git status  --> it shows the current status of the git folder (eg VersionControl )
