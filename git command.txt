@@ -10,3 +10,4 @@ git init --> to initialized the git command
 git add .    -->to add file in git stage
 
 git status  --> it shows the current status of the git folder (eg VersionControl )
+
