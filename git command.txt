@@ -11,3 +11,14 @@ git add .    -->to add file in git stage
 
 git status  --> it shows the current status of the git folder (eg VersionControl )
 
+touch filename.filetype  --> to create file from git bash
+
+git add -A  -->to add all files
+
+git checkout filename.filetype  --> to recover the file with last commit file
+
+git checkout -f  -->to recover all the file as of last commit
+
+git log  --> to check who committed and what commited in git 
+
+git diff --> to know the difference between last commited file and modified file
